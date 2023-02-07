@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "Switches")(type "KiCad")(uri "${KIPRJMOD}/Switches.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "C128990")(type "KiCad")(uri "${KIPRJMOD}/C128990.kicad_sym")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/Type-C.lib")(options "")(descr ""))
+  (lib (name "josh-connector")(type "Legacy")(uri "${KIPRJMOD}/josh-kicad-lib/josh-connector.lib")(options "")(descr ""))
+)
