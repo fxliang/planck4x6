@@ -4,4 +4,5 @@
   (lib (name "C128990")(type "KiCad")(uri "${KIPRJMOD}/C128990.kicad_sym")(options "")(descr ""))
   (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/Type-C.lib")(options "")(descr ""))
   (lib (name "josh-connector")(type "Legacy")(uri "${KIPRJMOD}/josh-kicad-lib/josh-connector.lib")(options "")(descr ""))
+  (lib (name "ch582m")(type "KiCad")(uri "${KIPRJMOD}/ch582m.kicad_sym")(options "")(descr ""))
 )

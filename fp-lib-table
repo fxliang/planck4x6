@@ -4,4 +4,5 @@
   (lib (name "C128990")(type "KiCad")(uri "${KIPRJMOD}/C128990.pretty")(options "")(descr ""))
   (lib (name "RP2040_minimal")(type "KiCad")(uri "${KIPRJMOD}/RP2040_minimal.pretty")(options "")(descr ""))
   (lib (name "josh-connectors")(type "KiCad")(uri "${KIPRJMOD}/josh-kicad-lib/josh-connectors.pretty")(options "")(descr ""))
+  (lib (name "CH582M")(type "KiCad")(uri "${KIPRJMOD}/CH582M.pretty")(options "")(descr ""))
 )
