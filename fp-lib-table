@@ -5,4 +5,6 @@
   (lib (name "RP2040_minimal")(type "KiCad")(uri "${KIPRJMOD}/RP2040_minimal.pretty")(options "")(descr ""))
   (lib (name "josh-connectors")(type "KiCad")(uri "${KIPRJMOD}/josh-kicad-lib/josh-connectors.pretty")(options "")(descr ""))
   (lib (name "CH582M")(type "KiCad")(uri "${KIPRJMOD}/CH582M.pretty")(options "")(descr ""))
+  (lib (name "W25Q256JVEIQ_TR")(type "KiCad")(uri "${KIPRJMOD}/W25Q256JVEIQ_TR.pretty")(options "")(descr ""))
+  (lib (name "W25Q16JVSSIQ")(type "KiCad")(uri "${KIPRJMOD}/W25Q16JVSSIQ.pretty")(options "")(descr ""))
 )

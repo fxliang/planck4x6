@@ -1,4 +1,4 @@
-20956333693100798
+20961353287708999
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -80765,6 +80765,13 @@ Cherry MX keyswitch 1.00u PCB REVERSABLE
 0
 4
 2
+Switches
+TSC005A1618A03
+
+
+0
+4
+2
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
@@ -87289,6 +87296,20 @@ varistor
 0
 2
 2
+W25Q16JVSSIQ
+SOIC127P790X216-8N
+
+
+0
+8
+8
+W25Q256JVEIQ_TR
+SON127P800X600X80-9N
+
+
+0
+9
+9
 josh-connectors
 AVR_PROG_2.54_SMT
 AVR Programmer 6 pogo pin 2.54 mm spacing

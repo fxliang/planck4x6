@@ -5,4 +5,6 @@
   (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/Type-C.lib")(options "")(descr ""))
   (lib (name "josh-connector")(type "Legacy")(uri "${KIPRJMOD}/josh-kicad-lib/josh-connector.lib")(options "")(descr ""))
   (lib (name "ch582m")(type "KiCad")(uri "${KIPRJMOD}/ch582m.kicad_sym")(options "")(descr ""))
+  (lib (name "W25Q256JVEIQ_TR")(type "Legacy")(uri "${KIPRJMOD}/W25Q256JVEIQ_TR.pretty/W25Q256JVEIQ_TR.lib")(options "")(descr ""))
+  (lib (name "W25Q16JVSSIQ")(type "KiCad")(uri "${KIPRJMOD}/W25Q256JVEIQ_TR.kicad_sym")(options "")(descr ""))
 )
