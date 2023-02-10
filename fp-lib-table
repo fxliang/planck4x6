@@ -7,4 +7,5 @@
   (lib (name "CH582M")(type "KiCad")(uri "${KIPRJMOD}/CH582M.pretty")(options "")(descr ""))
   (lib (name "W25Q256JVEIQ_TR")(type "KiCad")(uri "${KIPRJMOD}/W25Q256JVEIQ_TR.pretty")(options "")(descr ""))
   (lib (name "W25Q16JVSSIQ")(type "KiCad")(uri "${KIPRJMOD}/W25Q16JVSSIQ.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Hotswap_Kailh")(type "KiCad")(uri "${KIPRJMOD}/Switch_Keyboard_Hotswap_Kailh.pretty")(options "")(descr ""))
 )
