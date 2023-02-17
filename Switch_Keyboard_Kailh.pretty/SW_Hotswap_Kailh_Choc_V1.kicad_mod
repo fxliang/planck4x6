@@ -228,13 +228,18 @@
   (pad "" np_thru_hole circle (at 5.5 0) (size 1.9 1.9) (drill 1.9) (layers "*.Cu" "*.Mask") (tstamp 4066e960-91c1-4e3f-af80-ab740bd7f24f))
   (pad "1" smd roundrect (at -3.5 -6) (size 2.4 2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1) (tstamp 6a22e803-9410-4fb7-bc29-98aceccea843))
   (pad "2" smd roundrect (at 8.5 -3.8) (size 2.4 2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1) (tstamp 678ab1ee-8e24-479f-b6d8-f482265b3c43))
-  (model "${KIPRJMOD}/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl"
+  (model "${KIPRJMOD}/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/3d-library.3dshapes/SW_Kailh_Choc_V1.wrl"
+  (model "${KIPRJMOD}/3d-library.3dshapes/SW_Kailh_Choc_V1.stp"
     (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KIPRJMOD}/MBK_Keycap_-_1u.step"
+    (offset (xyz 0 0 6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
