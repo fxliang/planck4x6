@@ -11551,7 +11551,7 @@
     (property "Sheetname" "")
     (path "/2db6452a-9b5b-4a9b-901a-0b8aa05d6362")
     (attr smd)
-    (fp_text reference "SW26" (at 0 9.35 unlocked) (layer "B.SilkS")
+    (fp_text reference "SW26" (at 0 9.35 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp ae63e1c5-c47b-4862-a0d7-ae302a40fd03)
     )
