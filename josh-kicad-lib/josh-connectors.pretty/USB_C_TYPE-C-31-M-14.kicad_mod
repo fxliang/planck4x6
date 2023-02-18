@@ -1,7 +1,7 @@
 (footprint "USB_C_TYPE-C-31-M-14" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "USB C Type-C Receptacle SMD sunk into PCB")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0 -5.35) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp f131b036-56b1-4dae-b83a-43b06ab6bfa7)
